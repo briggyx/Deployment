@@ -130,7 +130,9 @@ Going back to my list of hypothesis of who gets loan approvals, I can accept/rej
     - Making predictions using the model
 
 ### 6. API
-- An app was created, however, technical difficulties were encountered and I was unable to finish implementing it 
+- I attempted to make 2 APIs
+- ran into lots of technical difficulties trying to implement the API's
+
 ### 7. Deployment 
 - Unfinished 
 
@@ -144,5 +146,5 @@ Best parameters from grid search for logistic regression using PC's:
 - technical difficulties in implementing an API & deployment 
 
 ## Future Goals
-- finish creating an API & deploying to the cloud 
+- deploying to the cloud 
 - create a website with polished UI & UX 
