@@ -130,12 +130,11 @@ Going back to my list of hypothesis of who gets loan approvals, I can accept/rej
     - Making predictions using the model
 
 ### 6. API
-- I attempted to make 2 APIs
-- ran into lots of technical difficulties trying to implement the API's
 
 ### 7. Deployment 
-- Unfinished 
-
+- created an AWS EC2 instance, used tmux
+- http://ec2-54-183-191-103.us-west-1.compute.amazonaws.com:5555/test
+- please run "app\test_AWS_deployment.ipynb", to test the deployed app
 
 ## Results/Demo
 Best parameters from grid search for logistic regression using PC's:
@@ -146,5 +145,4 @@ Best parameters from grid search for logistic regression using PC's:
 - technical difficulties in implementing an API & deployment 
 
 ## Future Goals
-- deploying to the cloud 
 - create a website with polished UI & UX 
